@@ -4,7 +4,7 @@
  ![Resim](https://github.com/Kodluyoruz/taskforce/raw/main/git/odev1/figures/github.png) 
 
 ## Installation
-' Öncelikle projeyi clonelayın.
+ Öncelikle projeyi clonelayın.
 > git clone https://github.com/isibol98/kodluyoruzIlkRepo 
 
 ## Usage 
