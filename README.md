@@ -1,7 +1,7 @@
 # kodluyoruzIlkRepo
  Bu repo [Kodluyoruz](https://www.kodluyoruz.org/) Git eğitimi ödevi için oluşturduğum bir repo. 
 
- ![Resim](https://github.com/Kodluyoruz/taskforce/raw/main/git/odev1/figures/github.png) 
+ ![Resim](https://cdn.discordapp.com/attachments/676510497058717697/977202032953933824/Opera_Anlk_Goruntu_2022-05-20_162851_github.com.png) 
 
 ## Installation
  Öncelikle projeyi clonelayın.
